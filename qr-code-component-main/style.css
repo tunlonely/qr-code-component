@@ -1,0 +1,34 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: "Outfit", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.qr-card {
+  background: white;
+  border-radius: 15px;
+  padding: 20px;
+  text-align: center;
+  width: 300px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.qr-img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 1.25rem;
+  color: hsl(218, 44%, 22%);
+  margin: 15px 0 10px;
+}
+
+p {
+  font-size: 15px;
+  color: hsl(220, 15%, 55%);
+}
